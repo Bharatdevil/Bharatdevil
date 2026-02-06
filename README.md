@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bharat Dhanshetti</h1>
+<h3 align="center">Aspiring Data Scientist | Python Developer | ML Enthusiast</h3>
 
-<!--
-**Bharatdevil/Bharatdevil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- Data Science
+- Machine Learning
+- Statistics
+- SQL & Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about:
+- Python
+- Data Analysis
+- Django
+- SQL
+
+📫 Reach me at:
+LinkedIn: www.linkedin.com/in/bharatwaj-dhanshetti2810
+
+---
+
+### 🛠️ Skills
+Python | SQL | Tableau | Git | Django | HTML | CSS
+
+---
+
+### 🎯 2026 Goal
+- Get Data Science Internship
+- Build 5 ML Projects
+- Strengthen DSA & Problem Solving
