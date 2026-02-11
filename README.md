@@ -7,13 +7,9 @@
 - Data Science
 - Machine Learning
 - Statistics
-- SQL & Power BI
+- SQL & Tableau
 
-💬 Ask me about:
-- Python
-- Data Analysis
-- Django
-- SQL
+
 
 📫 Reach me at:
 LinkedIn: www.linkedin.com/in/bharatwaj-dhanshetti2810
