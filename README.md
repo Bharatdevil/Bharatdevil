@@ -25,7 +25,4 @@ Python | SQL | Tableau | Git | Django | HTML | CSS
 
 ---
 
-### 🎯 2026 Goal
-- Get Data Science Internship
-- Build 5 ML Projects
-- Strengthen DSA & Problem Solving
+
