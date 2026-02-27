@@ -7,7 +7,7 @@
 - Data Science
 - Machine Learning
 - Statistics
-- SQL & Tableau
+- SQL 
 
 
 
