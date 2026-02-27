@@ -17,7 +17,7 @@ LinkedIn: www.linkedin.com/in/bharatwaj-dhanshetti2810
 ---
 
 ### 🛠️ Skills
-Python | SQL | Tableau | Git | Django | HTML | CSS
+Python | SQL | Git | Django | HTML | CSS
 
 ---
 
